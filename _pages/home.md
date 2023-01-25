@@ -20,7 +20,7 @@ row_research:
     title: "Research"
     btn_label: "Publications"
     btn_class: "btn--primary"
-    excerpt: "We are are group of researchers based in DCU and ADAPT, with external members at Aberdeen University, and IBM Research Dublin. Our collaborations extend to all continents, and both academia and industry."
+    excerpt: "We have a number of focus topics within language generation, including controllability, disentanglement, modularisation, reproducibility and evaluation of automatically generated text."
 
 row_code:
   - image_path: /assets/images/home/github.jpg
