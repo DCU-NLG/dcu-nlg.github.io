@@ -58,7 +58,7 @@ Based on: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/do
 # About Us
 {: .text-center}
 
-We are a group of faculty members, researchers and students affiliated with McGill University and Mila Quebec AI Institute, both located in Montreal, Canada. We often collaborate with researchers around the world.
+We are are group of researchers based in DCU and ADAPT, with external members at Aberdeen University, and IBM Research Dublin. Our collaborations extend to all continents, and both academia and industry.
 {: .text-center}
 
 {% include feature_row id="row_about_us" %}
