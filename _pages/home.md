@@ -20,7 +20,7 @@ row_research:
     title: "Research"
     btn_label: "Publications"
     btn_class: "btn--primary"
-    excerpt: "We work on various topics, including semantic parsing, question answering, reading comprehension, and conversational systems. We present our works in Computational Linguistics, NLP and ML conferences and journals."
+    excerpt: "We are are group of researchers based in DCU and ADAPT, with external members at Aberdeen University, and IBM Research Dublin. Our collaborations extend to all continents, and both academia and industry."
 
 row_code:
   - image_path: /assets/images/home/github.jpg
@@ -41,3 +41,25 @@ row_about_us:
   - image_path: /assets/images/home/benno-acl-2022.jpg
   - image_path: /assets/images/home/nick-acl-2022.jpg
   - image_path: /assets/images/home/vaibhav-acl-2022.jpg
+
+
+---
+{% comment %}
+Based on: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/splash-page.md
+{% endcomment %}
+
+
+{% include feature_row id="row_research" type="left" %}
+
+{% include feature_row id="row_code" type="right" %}
+
+
+
+# About Us
+{: .text-center}
+
+We are a group of faculty members, researchers and students affiliated with McGill University and Mila Quebec AI Institute, both located in Montreal, Canada. We often collaborate with researchers around the world.
+{: .text-center}
+
+{% include feature_row id="row_about_us" %}
+
