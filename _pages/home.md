@@ -11,7 +11,7 @@ header:
         - label: "Twitter"
           url: "https://github.com/DCU-NLG"
 
-excerpt: "DCU NLG is a research group within Dublin City University and ADAPT Centre focusing on various topics in natural language Generation."
+excerpt: "DCU NLG is a research group within Dublin City University and the ADAPT Research Centre, both located in Dublin, Ireland. We work on language generation in its broadest sense, encompassing data-to-text, text-to-text and free generation tasks."
 
 row_research:
   - image_path: /assets/images/home/poster-1.jpeg
@@ -41,25 +41,3 @@ row_about_us:
   - image_path: /assets/images/home/benno-acl-2022.jpg
   - image_path: /assets/images/home/nick-acl-2022.jpg
   - image_path: /assets/images/home/vaibhav-acl-2022.jpg
-
-
----
-{% comment %}
-Based on: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/splash-page.md
-{% endcomment %}
-
-
-{% include feature_row id="row_research" type="left" %}
-
-{% include feature_row id="row_code" type="right" %}
-
-
-
-# About Us
-{: .text-center}
-
-We are a group of faculty members, researchers and students affiliated with McGill University and Mila Quebec AI Institute, both located in Montreal, Canada. We often collaborate with researchers around the world.
-{: .text-center}
-
-{% include feature_row id="row_about_us" %}
-
