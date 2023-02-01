@@ -8,8 +8,6 @@ header:
     actions:
         - label: "GitHub"
           url: "https://github.com/DCU-NLG"
-        - label: "Twitter"
-          url: "https://github.com/DCU-NLG"
 
 excerpt: "DCU NLG is a research group within Dublin City University and the ADAPT Research Centre, located in Dublin, Ireland. We work on language generation in its broadest sense, encompassing data-to-text, text-to-text and free generation tasks."
 
