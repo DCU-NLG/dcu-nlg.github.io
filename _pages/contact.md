@@ -2,15 +2,15 @@
 title: "Contact"
 permalink: /contact/
 ---
+## Main Contact
+Prof. Anya Belz, anya.belz@dcu.ie
 
 ## Address
 
-ADAPT Centre is located at: O'Reilly Institute, Trinity College 25 Westland Row, Dublin, D02 PN40
+NLG Research Group, Second Floor McNulty Building, School of Computing, DCU, Dublin D09
 
 ## Email
 
-You can contact us via ADAPT Centre email by using: `firstname (dot) lastname (at) adaptcentre (dot) ie`
+You can contact us individually by email using: `firstname (dot) lastname (at) dcu (dot) ie`
 
-## Form
 
-You can use the following contact form: https://forms.gle/sucMLL4H7y9cW59U7
