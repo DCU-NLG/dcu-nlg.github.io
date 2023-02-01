@@ -4,7 +4,7 @@ title: "DCU Natural Language Generation"
 layout: splash
 header:
     overlay_filter: rgba(237, 27, 47, 0.3)
-    overlay_image: /assets/images/dcu_main.jpg
+    overlay_image: /assets/images/dcu.jpg
     actions:
         - label: "GitHub"
           url: "https://github.com/DCU-NLG"
@@ -36,11 +36,11 @@ row_about_us:
   - image_path: /assets/images/SM_INLG18.jpg
   - image_path: /assets/images/20220523_121124.jpg
   - image_path: /assets/images/poster03.jpg
-  - image_path: /assets/images/MP.png 
-  - image_path: /assets/images/20221212_164258.jpg
   - image_path: /assets/images/RH_EMNLP_2022.jpeg
   - image_path: /assets/images/20220523_122856.jpg
   - image_path: /assets/images/SM_MoBen.jpg
+  - image_path: /assets/images/MP.png 
+  - image_path: /assets/images/20221212_164258.jpg
 
 
 ---
