@@ -11,7 +11,7 @@ header:
         - label: "Twitter"
           url: "https://github.com/DCU-NLG"
 
-excerpt: "DCU NLG is a research group within Dublin City University and the ADAPT Research Centre, both located in Dublin, Ireland. We work on language generation in its broadest sense, encompassing data-to-text, text-to-text and free generation tasks."
+excerpt: "DCU NLG is a research group within Dublin City University and the ADAPT Research Centre, located in Dublin, Ireland. We work on language generation in its broadest sense, encompassing data-to-text, text-to-text and free generation tasks."
 
 row_research:
   - image_path: /assets/images/20220523_121124.jpg
