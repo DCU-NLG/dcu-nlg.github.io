@@ -35,10 +35,10 @@ row_about_us:
   - image_path: /assets/images/poster03.jpg
   - image_path: /assets/images/RH_EMNLP_2022.jpeg
   - image_path: /assets/images/20220523_122856.jpg
-  - image_path: /assets/images/SM_MoBen.jpg
+  - image_path: /assets/images/AB_2022.jpg 
+  - image_path: /assets/images/ML_2023.jpg
   - image_path: /assets/images/20220523_121124.jpg
-  - image_path: /assets/images/MP.png 
-  - image_path: /assets/images/20221212_164258.jpg
+  - image_path: /assets/images/AB_2019.png
 
 
 ---
