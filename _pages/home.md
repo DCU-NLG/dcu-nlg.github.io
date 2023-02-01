@@ -31,14 +31,14 @@ row_code:
   
 row_about_us:
   - image_path: /assets/images/SM_MSR19.jpg
-  - image_path: /assets/images/AB_2019.jpg
+  - image_path: /assets/images/AB_2019.png
   - image_path: /assets/images/FM_2022.jpg
   - image_path: /assets/images/RH_EMNLP_2022.jpeg
   - image_path: /assets/images/AB_2022.jpg
   - image_path: /assets/images/ML_2023.jpg 
   - image_path: /assets/images/MP.jpg
   - image_path: /assets/images/SM_EMNLP19.jpg
-  - image_path: /assets/images/20230201_141106.png
+  - image_path: /assets/images/20230201_141106.jpg
 
 
 ---
