@@ -14,7 +14,7 @@ header:
 excerpt: "DCU NLG is a research group within Dublin City University and the ADAPT Research Centre, both located in Dublin, Ireland. We work on language generation in its broadest sense, encompassing data-to-text, text-to-text and free generation tasks."
 
 row_research:
-  - image_path: /assets/images/home/poster-1.jpeg
+  - image_path: /assets/images/20220523_121124.jpg
     url: /publications
     alt: "Poster Presentation"
     title: "Research"
@@ -32,15 +32,15 @@ row_code:
     excerpt: "We publish code for our models and datasets on GitHub to make it easier for researchers and developers to reproduce and build upon our work. We welcome pull requests and issues on active projects from the community."
   
 row_about_us:
-  - image_path: /assets/images/home/lunch-1.jpeg
-  - image_path: /assets/images/home/jackie-axes-2019.jpg
-  - image_path: /assets/images/home/park-1.jpeg
-  - image_path: /assets/images/home/coffee-acl-2022.jpg
-  - image_path: /assets/images/home/michaela-acl-2022.jpg
-  - image_path: /assets/images/home/zichao-acl-2022.jpg
-  - image_path: /assets/images/home/benno-acl-2022.jpg
-  - image_path: /assets/images/home/nick-acl-2022.jpg
-  - image_path: /assets/images/home/vaibhav-acl-2022.jpg
+  - image_path: /assets/images/poster02.jpg
+  - image_path: /assets/images/SM_INLG18.jpg
+  - image_path: /assets/images/20220523_121124.jpg
+  - image_path: /assets/images/poster03.jpg
+  - image_path: /assets/images/MP.png 
+  - image_path: /assets/images/20221212_164258.jpg
+  - image_path: /assets/images/RH_EMNLP_2022.jpeg
+  - image_path: /assets/images/20220523_122856.jpg
+  - image_path: /assets/images/SM_MoBen.jpg
 
 
 ---
