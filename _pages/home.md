@@ -4,7 +4,7 @@ title: "DCU Natural Language Generation"
 layout: splash
 header:
     overlay_filter: rgba(237, 27, 47, 0.3)
-    overlay_image: /assets/images/dcu.jpg
+    overlay_image: /assets/images/dcu.png
     actions:
         - label: "GitHub"
           url: "https://github.com/DCU-NLG"
