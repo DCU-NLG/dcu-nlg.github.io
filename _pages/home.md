@@ -24,10 +24,10 @@ row_code:
   - image_path: /assets/images/github.png
     url: https://github.com/DCU-NLG
     alt: "Our GitHub page"
-    title: "Open-Source Code"
+    title: "Resource Sharing"
     btn_label: "GitHub"
     btn_class: "btn--primary"
-    excerpt: "We publish code for our models and datasets on GitHub to make it easier for researchers and developers to reproduce and build upon our work. We welcome pull requests and issues on active projects from the community."
+    excerpt: "To put with resources: We aim to publish resources including models, datasets, code and data sheets via GitHub to help others to use and build on our work. Feedback is always welcome."
   
 row_about_us:
   - image_path: /assets/images/poster02.jpg
