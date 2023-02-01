@@ -11,6 +11,6 @@ NLG Research Group, Second Floor McNulty Building, School of Computing, DCU, Dub
 
 ## Email
 
-You can contact us individually by email using: `firstname (dot) lastname (at) dcu (dot) ie`
+You can contact us individually by email using: `firstname (dot) lastname (at) adaptcentre (dot) ie`
 
 
