@@ -10,6 +10,5 @@ layout: archive
 
 # Alumni
 
-### PhD Students
 
 
