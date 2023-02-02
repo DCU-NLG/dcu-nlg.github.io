@@ -27,7 +27,7 @@ row_code:
     title: "Resource Sharing"
     btn_label: "GitHub"
     btn_class: "btn--primary"
-    excerpt: "To put with resources: We aim to publish resources including models, datasets, code and data sheets via GitHub to help others to use and build on our work. Feedback is always welcome."
+    excerpt: "We aim to publish resources including models, datasets, code and data sheets via GitHub to help others to use and build on our work. Feedback is always welcome."
   
 row_about_us:
   - image_path: /assets/images/SM_MSR19.jpg
@@ -35,7 +35,7 @@ row_about_us:
   - image_path: /assets/images/FM_2022.jpg
   - image_path: /assets/images/RH_EMNLP_2022.jpeg
   - image_path: /assets/images/AB_2022.jpg
-  - image_path: /assets/images/ML_2023.jpg 
+  - image_path: /assets/images/ML_2023-2.jpg 
   - image_path: /assets/images/MP.jpg
   - image_path: /assets/images/SM_EMNLP19.jpg
   - image_path: /assets/images/20230201_141106.jpg

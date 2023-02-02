@@ -4,11 +4,10 @@ permalink: /people/
 layout: archive
 ---
 
+{% include card-authors-without-role.html authors=site.data.authors alumni=false %}
 
 
-
-
-# Alumni
-
+## Alumni
+{% include list-authors-without-role.html authors=site.data.authors alumni=true %}
 
 
