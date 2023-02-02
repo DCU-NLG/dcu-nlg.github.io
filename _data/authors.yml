@@ -68,7 +68,7 @@
    avatar: "/assets/images/bio/MS.jfif"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
-#   bio: "Just some cool student"
+   bio: "Working on improving the reusability & Controllability of LLMs"
 #   note: "Co-advised by Amasa L."
    alumni: false
 #   new_role: "Professing at Leland Junior S. University"
@@ -78,7 +78,7 @@
      - label: "GitHub"
        url: "https://github.com/mhmdsabry"
      - label: "Twitter"
-       url: "https://twitter.com/M__Sabry"
+       url: "https://twitter.com/M___Sabry"
      - label: "Scholar"
        icon: "fas fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?hl=en&user=lfhzf8wAAAAJ"
