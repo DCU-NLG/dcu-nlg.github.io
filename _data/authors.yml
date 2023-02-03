@@ -80,6 +80,24 @@
        icon: "fas fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?user=USpEfyQAAAAJ&hl"
 
+ Maja Popovic:
+   name: "Maja Popovic"
+   role: ""
+   avatar: "/assets/images/bio/MP.jpg"
+   bio: "Research Fellow in ADAPT and DCU"
+   note: "Text-to-text generation, evaluation of MT and NLG systems, error annotation, reproducibility."
+   alumni: false
+   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+     - label: "GitHub"
+       url: "https://github.com/m-popovic"
+     - label: "Twitter"
+       url: "https://twitter.com/amelija16mp"
+     - label: "Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?user=KdAV2Y0AAAAJ"
+       
  Mohammed Sabry:
    name: "Mohammed Sabry"
    role: "PhD"
