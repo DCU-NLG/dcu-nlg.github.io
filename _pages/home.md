@@ -21,7 +21,7 @@ row_research:
     excerpt: "We have a number of focus topics within language generation, including controllability, disentanglement, modularisation, reproducibility and evaluation of automatically generated text."
 
 row_code:
-  - image_path: /assets/images/github.png
+  - image_path: /assets/images/github.jpg
     url: https://github.com/DCU-NLG
     alt: "Our GitHub page"
     title: "Resource Sharing"
