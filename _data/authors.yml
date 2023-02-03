@@ -8,6 +8,7 @@
 #   bio: "Just some cool student"
 #   note: "Co-advised by Amasa L."
 #   alumni: true
+#   extmembers: false
 #   new_role: "Professing at Leland Junior S. University"
 #   links:
 #     - label: "Website"
@@ -27,6 +28,7 @@
    bio: "Professor of Computer Science at DCU and University of Aberdeen"
    note: "Language generation, evaluation of NLP systems, reproducibility, responsible AI."
    alumni: false
+   extmembers: false
    links:
 #     - label: "Website"
 #       url: "https://john-doe.github.io/"
@@ -44,9 +46,10 @@
    avatar: "/assets/images/bio/RH.jpg"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
-#   bio: "Just some cool student"
+   bio: "Working on Semantic Controllable Text Generation."
 #   note: "Co-advised by Amasa L."
    alumni: false
+   extmembers: false
 #   new_role: "Professing at Leland Junior S. University"
    links:
 #     - label: "Website"
@@ -68,6 +71,7 @@
    bio: "Working on Controllable Text Generation."
    note: "Co-supervised by Dr. Yvette Graham"
    alumni: false
+   extmembers: false
 #   new_role: "Professing at Leland Junior S. University"
    links:
 #     - label: "Website"
@@ -87,6 +91,7 @@
    bio: "MSCA Individual Fellow, ADAPT/DCU"
    note: "Working on multilingual neuro-symbolic language generation, evaluation of NLP systems, treebanking"
    alumni: false
+   extmembers: false
    links:
   #     - label: "Website"
   #       url: "https://john-doe.github.io/"
@@ -105,6 +110,7 @@
    bio: "Research Fellow in ADAPT and DCU"
    note: "Text-to-text generation, evaluation of MT and NLG systems, error annotation, reproducibility."
    alumni: false
+   extmembers: false
    links:
 #     - label: "Website"
 #       url: "https://john-doe.github.io/"
@@ -125,6 +131,7 @@
    bio: "Working on improving the reusability & Controllability of LLMs"
 #   note: "Co-advised by Amasa L."
    alumni: false
+   extmembers: false
 #   new_role: "Professing at Leland Junior S. University"
    links:
 #     - label: "Website"
@@ -146,6 +153,7 @@
 #   bio: ""
 #   note: ""
    alumni: true
+   extmembers: false
 #   new_role: ""
 #   links:
 #     - label: "Website"
@@ -157,3 +165,91 @@
 #     - label: "Scholar"
 #       icon: "fas fa-fw fa-graduation-cap"
 #       url: "https://scholar.google.com/citations?user="
+
+ Dr Yufang Hou:
+   name: "Dr Yufang Hou"
+#   role: "Intern"
+   #   avatar: "/assets/images/bio/JR.jpg"
+   #   date: "Sep 2030"
+#   advisor: "Dr. Simon Mille"
+   bio: "IBM Research Dublin"
+   #   note: ""
+   extmembers: true
+   alumni: false
+#   new_role: ""
+   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+#     - label: "GitHub"
+#       url: "https://github.com/"
+#     - label: "Twitter"
+#       url: "https://twitter.com/john-doe"
+     - label: "Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?user=-fBym-EAAAAJ"
+
+ Dr Craig Thomson:
+   name: "Dr Craig Thomson"
+#   role: "Intern"
+   #   avatar: "/assets/images/bio/JR.jpg"
+   #   date: "Sep 2030"
+#   advisor: "Dr. Simon Mille"
+   bio: "University of Aberdeen"
+   #   note: ""
+   extmembers: true
+   alumni: false
+#   new_role: ""
+   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+#     - label: "GitHub"
+#       url: "https://github.com/"
+#     - label: "Twitter"
+#       url: "https://twitter.com/john-doe"
+     - label: "Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?user=X8y3FZYAAAAJ"
+
+ Francesco Moramarco:
+   name: "Francesco Moramarco"
+#   role: "Intern"
+   #   avatar: "/assets/images/bio/JR.jpg"
+   #   date: "Sep 2030"
+#   advisor: "Dr. Simon Mille"
+   bio: "University of Aberdeen"
+   #   note: ""
+   extmembers: true
+   alumni: false
+#   new_role: ""
+   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+#     - label: "GitHub"
+#       url: "https://github.com/"
+#     - label: "Twitter"
+#       url: "https://twitter.com/john-doe"
+     - label: "Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?user=TBcAynYAAAAJ"
+
+ Dr Thiago Castro Ferreira:
+   name: "Dr Thiago Castro Ferreira"
+#   role: "Intern"
+   #   avatar: "/assets/images/bio/JR.jpg"
+   #   date: "Sep 2030"
+#   advisor: "Dr. Simon Mille"
+   bio: "aiXplain and Federal University of Minas Gerais"
+   #   note: ""
+   extmembers: true
+   alumni: false
+#   new_role: ""
+   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+#     - label: "GitHub"
+#       url: "https://github.com/"
+#     - label: "Twitter"
+#       url: "https://twitter.com/john-doe"
+     - label: "Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?user=WvXZlDIAAAAJ"
