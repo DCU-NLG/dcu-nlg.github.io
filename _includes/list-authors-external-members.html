@@ -1,0 +1,46 @@
+<ul>
+    {% for hash in include.authors -%}
+    {% assign author = hash[1] -%}
+    
+    {% if author.extmembers %}
+    {% assign extmembers = true %}
+    {% else %}
+    {% assign extmembers = false %}
+    {% endif %}
+
+    {% if extmembers == include.extmembers %}
+    <li>
+        {% if author.links %}
+        <a href="{{ author.links[0].url }}">{{ author.name }}</a>
+        {% else %}
+        {{ author.name }}
+        {% endif %}
+
+        {% if author.date %}
+        ({{ author.date }})
+        {% endif %}
+
+        {% if author.role -%}
+        - {{ author.role }}
+        {% endif %}
+        
+        {% if author.advisor -%}
+        - Supervised by {{ author.advisor }}
+        {% endif %}
+
+        {% if author.bio -%}
+        - {{ author.bio }}
+        {% endif %}
+
+        {% if author.note %}
+        - {{ author.note }}
+        {% endif %}
+
+        {% if author.new_role %}
+        ➡️ {{ author.new_role }}
+        {% endif %}
+    </li>
+    {% endif %}
+
+    {% endfor %}
+</ul>

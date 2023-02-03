@@ -9,6 +9,7 @@
 {% endif %}
 
 {% if alumni == include.alumni %}
+{% if author.extmembers == include.extmembers %}
 
 <article class="author-card">
     <div class="author-avatar">
@@ -76,6 +77,7 @@
 
 </article>
 
+{% endif %}
 {% endif %}
 
 {% endfor %}
