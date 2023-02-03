@@ -115,7 +115,7 @@ defaults:
       classes:
         - no-sidebar
       author_profile: false
-      share: true
+      share: false
 
 category_archive:
   type: liquid
