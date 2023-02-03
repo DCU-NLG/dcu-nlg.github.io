@@ -22,19 +22,19 @@
 
  Michela Lorandi:
    name: "Michela Lorandi"
-   role: "PhD"
+   role: "PhD student"
    avatar: "/assets/images/bio/ML.jpg"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
    bio: "Working on Controllable Text Generation."
-   note: "Co-supervised by Prof. Yvette Graham"
+   note: "Co-supervised by Dr. Yvette Graham"
    alumni: false
 #   new_role: "Professing at Leland Junior S. University"
    links:
 #     - label: "Website"
 #       url: "https://john-doe.github.io/"
      - label: "GitHub"
-       url: "https://github.com/michiL96"
+       url: "https://github.com/michelalorandi"
 #     - label: "Twitter"
 #       url: "https://twitter.com/john-doe"
      - label: "Scholar"
@@ -43,7 +43,7 @@
 
  Rudali Huidrom:
    name: "Rudali Huidrom"
-   role: "PhD"
+   role: "PhD student"
    avatar: "/assets/images/bio/RH.jpg"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
@@ -61,3 +61,24 @@
      - label: "Scholar"
        icon: "fas fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?user=mQuoBfsAAAAJ&hl"
+
+ Josep Ricci:
+   name: "Josep Ricci"
+   role: "Intern"
+#   avatar: "/assets/images/bio/JR.jpg"
+#   date: "Sep 2030"
+   advisor: "Dr. Simon Mille"
+#   bio: ""
+#   note: ""
+   alumni: true
+#   new_role: ""
+#   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+#     - label: "GitHub"
+#       url: "https://github.com/"
+#     - label: "Twitter"
+#       url: "https://twitter.com/john-doe"
+#     - label: "Scholar"
+#       icon: "fas fa-fw fa-graduation-cap"
+#       url: "https://scholar.google.com/citations?user="

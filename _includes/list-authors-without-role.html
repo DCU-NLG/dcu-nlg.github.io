@@ -19,9 +19,13 @@
         {% if author.date %}
         ({{ author.date }})
         {% endif %}
+
+        {% if author.role -%}
+        - {{ author.role }}
+        {% endif %}
         
         {% if author.advisor -%}
-        - Advised by {{ author.advisor }}
+        - Supervised by {{ author.advisor }}
         {% endif %}
 
         {% if author.note %}
