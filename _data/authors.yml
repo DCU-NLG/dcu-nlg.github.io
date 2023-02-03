@@ -20,6 +20,45 @@
 #       icon: "fas fa-fw fa-graduation-cap"
 #       url: "https://scholar.google.com/citations?user=<user_id>"
 
+ Anya Belz:
+   name: "Anya Belz"
+   role: ""
+   avatar: "/assets/images/bio/AB_profile_pic.jpg"
+   bio: "Professor of Computer Science at DCU and University of Aberdeen"
+   note: "Language generation, evaluation of NLP systems, reproducibility, responsible AI."
+   alumni: false
+   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+     - label: "GitHub"
+       url: "https://github.com/asbelz"
+     - label: "Twitter"
+       url: "https://twitter.com/anyabelz"
+     - label: "Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?user=trwwiW4AAAAJ"
+       
+ Rudali Huidrom:
+   name: "Rudali Huidrom"
+   role: "PhD"
+   avatar: "/assets/images/bio/RH.jpg"
+#   date: "Sep 2030"
+   advisor: "Prof. Anya Belz"
+#   bio: "Just some cool student"
+#   note: "Co-advised by Amasa L."
+   alumni: false
+#   new_role: "Professing at Leland Junior S. University"
+   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+     - label: "GitHub"
+       url: "https://github.com/RHuidrom"
+     - label: "Twitter"
+       url: "https://twitter.com/HuidromRudali"
+     - label: "Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?user=mQuoBfsAAAAJ&hl"
+       
  Michela Lorandi:
    name: "Michela Lorandi"
    role: "PhD student"
@@ -41,13 +80,49 @@
        icon: "fas fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?user=USpEfyQAAAAJ&hl"
 
- Rudali Huidrom:
-   name: "Rudali Huidrom"
-   role: "PhD student"
-   avatar: "/assets/images/bio/RH.jpg"
+Simon Mille:
+   name: "Simon Mille
+   role: ""
+   avatar: "/assets/images/bio/SM.jpg"
+   bio: "MSCA Individual Fellow, ADAPT/DCU"
+   note: "Working on multilingual neuro-symbolic language generation, evaluation of NLP systems, treebanking"
+   alumni: false
+   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+     - label: "GitHub"
+       url: "https://github.com/mille-s"
+     - label: "Twitter"
+       url: "https://twitter.com/simon_mille"
+     - label: "Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?user=hg8-G68AAAAJ&hl=en&oi=ao"
+       
+Maja Popovic:
+   name: "Maja Popovic"
+   role: ""
+   avatar: "/assets/images/bio/MP.png"
+   bio: "Research Fellow in ADAPT and DCU"
+   note: "Text-to-text generation, evaluation of MT and NLG systems, error annotation, reproducibility."
+   alumni: false
+   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+     - label: "GitHub"
+       url: "https://github.com/m-popovic"
+     - label: "Twitter"
+       url: "https://twitter.com/amelija16mp"
+     - label: "Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?user=KdAV2Y0AAAAJ"
+       
+ Mohammed Sabry:
+   name: "Mohammed Sabry"
+   role: "PhD"
+   avatar: "/assets/images/bio/MS.jfif"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
-#   bio: "Just some cool student"
+   bio: "Working on improving the reusability & Controllability of LLMs"
 #   note: "Co-advised by Amasa L."
    alumni: false
 #   new_role: "Professing at Leland Junior S. University"
@@ -55,9 +130,9 @@
 #     - label: "Website"
 #       url: "https://john-doe.github.io/"
      - label: "GitHub"
-       url: "https://github.com/RHuidrom"
+       url: "https://github.com/mhmdsabry"
      - label: "Twitter"
-       url: "https://twitter.com/HuidromRudali"
+       url: "https://twitter.com/M___Sabry"
      - label: "Scholar"
        icon: "fas fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?user=mQuoBfsAAAAJ&hl"
