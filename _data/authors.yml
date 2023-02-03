@@ -83,7 +83,7 @@
  Maja Popovic:
    name: "Maja Popovic"
    role: ""
-   avatar: "/assets/images/bio/MP.jpg"
+   avatar: "/assets/images/bio/MP.png"
    bio: "Research Fellow in ADAPT and DCU"
    note: "Text-to-text generation, evaluation of MT and NLG systems, error annotation, reproducibility."
    alumni: false
