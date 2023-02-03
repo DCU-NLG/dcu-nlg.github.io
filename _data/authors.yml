@@ -22,7 +22,7 @@
 
  Anya Belz:
    name: "Anya Belz"
-   role: ""
+#   role: ""
    avatar: "/assets/images/bio/AB_profile_pic.jpg"
    bio: "Professor of Computer Science at DCU and University of Aberdeen"
    note: "Language generation, evaluation of NLP systems, reproducibility, responsible AI."
@@ -40,7 +40,7 @@
        
  Rudali Huidrom:
    name: "Rudali Huidrom"
-   role: "PhD"
+   role: "PhD student"
    avatar: "/assets/images/bio/RH.jpg"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
@@ -80,16 +80,16 @@
        icon: "fas fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?user=USpEfyQAAAAJ&hl"
 
-Simon Mille:
-   name: "Simon Mille
-   role: ""
+ Simon Mille:
+   name: "Simon Mille"
+#   role: ""
    avatar: "/assets/images/bio/SM.jpg"
    bio: "MSCA Individual Fellow, ADAPT/DCU"
    note: "Working on multilingual neuro-symbolic language generation, evaluation of NLP systems, treebanking"
    alumni: false
    links:
-#     - label: "Website"
-#       url: "https://john-doe.github.io/"
+  #     - label: "Website"
+  #       url: "https://john-doe.github.io/"
      - label: "GitHub"
        url: "https://github.com/mille-s"
      - label: "Twitter"
@@ -98,9 +98,9 @@ Simon Mille:
        icon: "fas fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?user=hg8-G68AAAAJ&hl=en&oi=ao"
        
-Maja Popovic:
+ Maja Popovic:
    name: "Maja Popovic"
-   role: ""
+#   role: ""
    avatar: "/assets/images/bio/MP.png"
    bio: "Research Fellow in ADAPT and DCU"
    note: "Text-to-text generation, evaluation of MT and NLG systems, error annotation, reproducibility."
@@ -118,7 +118,7 @@ Maja Popovic:
        
  Mohammed Sabry:
    name: "Mohammed Sabry"
-   role: "PhD"
+   role: "PhD student"
    avatar: "/assets/images/bio/MS.jfif"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
