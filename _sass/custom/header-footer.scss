@@ -12,6 +12,8 @@ a.site-title {
     }
 }
 
+.site-logo img { max-height: 2.5rem; }
+
 .theme-toggle {
     @media (min-width: 601px) {
         margin: 0px;

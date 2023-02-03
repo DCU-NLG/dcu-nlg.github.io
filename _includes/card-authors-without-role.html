@@ -28,6 +28,12 @@
             {% endif %}
         </b>
 
+        {% if author.role %}
+        <div class="author-advisor">
+            <b>Role:</b> {{ author.role }}
+        </div>
+        {% endif %}
+
         {% if author.advisor %}
         <div class="author-advisor">
             <b>Supervised by:</b> {{ author.advisor }}
