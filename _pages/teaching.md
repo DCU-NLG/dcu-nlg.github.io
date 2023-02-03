@@ -1,7 +1,7 @@
 ---
 title: Teaching
 permalink: /teaching/
-layout: publication
+layout: teaching
 taxonomy: Teaching
 classes:
     - wide

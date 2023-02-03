@@ -23,14 +23,19 @@
 
     const changeTheme = () => {
         let theme = sessionStorage.getItem('theme');
+        var img = document.getElementById("logo_img")
 
         // Change the theme to the other option
         if (theme === "light") {
             theme = "dark";
+            img_src = img.src.replace("logo.png", "logo_dark.png");
         } else {
             theme = "light";
+            img_src = img.src.replace("logo_dark.png", "logo.png");
         }
-        
+
+        img.src = img_src;
+
         // Update the stored session and the nodes' rel attribute
         sessionStorage.setItem('theme', theme);
         updateNodesRel(theme);
