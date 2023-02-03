@@ -22,10 +22,10 @@
 
  Anya Belz:
    name: "Anya Belz"
-   role: "Professor of Computer Science at DCU and University of Aberdeen"
+   role: ""
    avatar: "/assets/images/bio/AB_profile_pic.jpg"
-   bio: "Language generation, evaluation of NLP systems, reproducibility, responsible AI."
-#   note: ""
+   bio: "Professor of Computer Science at DCU and University of Aberdeen"
+   note: "Language generation, evaluation of NLP systems, reproducibility, responsible AI."
    alumni: false
    links:
 #     - label: "Website"
