@@ -80,7 +80,25 @@
        icon: "fas fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?user=USpEfyQAAAAJ&hl"
 
- Maja Popovic:
+Simon Mille:
+   name: "Simon Mille
+   role: ""
+   avatar: "/assets/images/bio/SM.jpg"
+   bio: "MSCA Individual Fellow, ADAPT/DCU"
+   note: "Working on multilingual neuro-symbolic language generation, evaluation of NLP systems, treebanking"
+   alumni: false
+   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+     - label: "GitHub"
+       url: "https://github.com/mille-s"
+     - label: "Twitter"
+       url: "https://twitter.com/simon_mille"
+     - label: "Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?user=hg8-G68AAAAJ&hl=en&oi=ao"
+       
+Maja Popovic:
    name: "Maja Popovic"
    role: ""
    avatar: "/assets/images/bio/MP.png"
