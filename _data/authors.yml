@@ -128,7 +128,7 @@
    avatar: "/assets/images/bio/MS.jfif"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
-   bio: "Working on improving the reusability & Controllability of LLMs"
+   bio: "Working on improving the reusability & the controllability of LLMs"
 #   note: "Co-advised by Amasa L."
    alumni: false
    extmembers: false
@@ -142,7 +142,7 @@
        url: "https://twitter.com/M___Sabry"
      - label: "Scholar"
        icon: "fas fa-fw fa-graduation-cap"
-       url: "https://scholar.google.com/citations?user=mQuoBfsAAAAJ&hl"
+       url: "https://scholar.google.com/citations?hl=en&user=lfhzf8wAAAAJ"
 
  Josep Ricci:
    name: "Josep Ricci"
