@@ -1,0 +1,17 @@
+---
+title: On the reduction of variance and overestimation of deep Q-learning
+venue: arXiv preprint arXiv:1910.05983
+names:
+- M Sabry
+- A Khalifa
+link: https://arxiv.org/abs/1910.05983
+author: Mohammed Sabry
+
+---
+
+*{{ page.names }}*
+**{{ page.venue }}**
+{% include display-publication-links.html pub=page %}
+## Abstract
+
+None
