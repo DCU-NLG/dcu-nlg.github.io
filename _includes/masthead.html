@@ -1,7 +1,6 @@
 <!-- Overrides and modified from: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/_includes/masthead.html -->
 
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
-{% capture logo_path_dark %}{{ site.logo_dark }}{% endcapture %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -9,11 +8,7 @@
       <nav id="site-nav" class="greedy-nav">
 
         <a class="site-logo" href="{{ '/' | relative_url }}">
-          {% if site.theme == "dark"%}
-          <img id="logo_img" src="{{ logo_path_dark | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
-          {% else %}
           <img id="logo_img" src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
-          {% endif %}
         </a>
 
         <a class="site-title" href="{{ '/' | relative_url }}">
