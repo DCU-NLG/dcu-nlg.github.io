@@ -9,10 +9,3 @@ categories: Publications
 year: '2019'
 
 ---
-
-*{{ page.names }}*
-**{{ page.venue }}**
-{% include display-publication-links.html pub=page %}
-## Abstract
-
-None
