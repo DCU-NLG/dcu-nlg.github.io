@@ -3,7 +3,7 @@ permalink: /
 title: "DCU Natural Language Generation"
 layout: splash
 header:
-    overlay_filter: rgba(237, 27, 47, 0.2)
+    overlay_filter: rgba(237, 27, 47, 0.3)
     overlay_image: /assets/images/dcu_computing.jpg
     actions:
         - label: "GitHub"
