@@ -6,7 +6,7 @@ names:
 - A Khalifa
 link: https://arxiv.org/abs/1910.05983
 author: Mohammed Sabry
-
+categories: Publications
 ---
 
 *{{ page.names }}*
