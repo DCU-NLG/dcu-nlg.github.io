@@ -7,12 +7,3 @@ author: Mohammed Sabry
 categories: Publications
 
 ---
-
-*{{ page.names }}*
-
-**{{ page.venue }}**
-
-{% include  display-publications.html pub=page %}
-
-Abstract
-None
