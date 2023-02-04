@@ -30,7 +30,7 @@ def front_matters_from_dict(d):
     return front_matter
 
 def get_filename(parsed):
-    return parsed['year']+"-12-30-"+parsed['title'].replace(" ",'-') + ".md"
+    return parsed['year']+"-12-30-"+parsed['title'].replace(" ",'-').lower() + ".md"
 
 ######################################################
 #               publications Functions               #
