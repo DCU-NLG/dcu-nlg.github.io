@@ -103,9 +103,9 @@ defaults:
     values:
       layout: single
       classes:
-        - wide
-      author_profile: true
-      share: true
+        - no-sidebar
+      author_profile: false
+      share: false
   # _posts/teaching
   - scope:
       path: _posts/teaching
