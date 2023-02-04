@@ -44,7 +44,7 @@
  Rudali Huidrom:
    name: "Rudali Huidrom"
    role: "PhD student"
-   google_scholar_id: "mQuoBfsAAAAJ&hl"
+   google_scholar_id: "mQuoBfsAAAAJ"
    avatar: "/assets/images/bio/RH.jpg"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
@@ -67,7 +67,7 @@
  Michela Lorandi:
    name: "Michela Lorandi"
    role: "PhD student"
-   google_scholar_id: "USpEfyQAAAAJ&hl"
+   google_scholar_id: "USpEfyQAAAAJ"
    avatar: "/assets/images/bio/ML.jpg"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
