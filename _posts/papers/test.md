@@ -8,7 +8,11 @@ categories: Publications
 
 ---
 
-{{ page.names }} {{ page.venue }} {% include display-publication-links.html pub=page %}
+*{{ page.names }}*
+
+**{{ page.venue }}**
+
+{% include display-publication-links.html pub=page %}
 
 Abstract
 None
