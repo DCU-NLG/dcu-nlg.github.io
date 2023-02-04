@@ -4,7 +4,7 @@ venue: Proceedings of the Eighth International Conference on Language Resources 
   …, 2012
 names: S Bott, H Saggion, S Mille
 tags: ''
-link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hg8-G68AAAAJ&citation_for_view=hg8-G68AAAAJ:YFjsv_pBGBYC
+link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hg8-G68AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hg8-G68AAAAJ:YFjsv_pBGBYC
 author: Simon Mille
 categories: Publications
 year: '2012'

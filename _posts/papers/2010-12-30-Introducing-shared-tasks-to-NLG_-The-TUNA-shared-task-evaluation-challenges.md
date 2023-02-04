@@ -4,7 +4,7 @@ venue: 'Empirical methods in natural language generation: data-oriented methods 
   …, 2010'
 names: A Gatt, A Belz
 tags: ''
-link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=trwwiW4AAAAJ&citation_for_view=trwwiW4AAAAJ:IjCSPb-OGe4C
+link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=trwwiW4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=trwwiW4AAAAJ:IjCSPb-OGe4C
 author: Anya Belz
 categories: Publications
 year: '2010'

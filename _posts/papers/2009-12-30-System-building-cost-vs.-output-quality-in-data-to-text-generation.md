@@ -4,7 +4,7 @@ venue: Proceedings of the 12th European Workshop on Natural Language Generation 
   2009
 names: A Belz, E Kow
 tags: ''
-link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=trwwiW4AAAAJ&citation_for_view=trwwiW4AAAAJ:ufrVoPGSRksC
+link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=trwwiW4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=trwwiW4AAAAJ:ufrVoPGSRksC
 author: Anya Belz
 categories: Publications
 year: '2009'

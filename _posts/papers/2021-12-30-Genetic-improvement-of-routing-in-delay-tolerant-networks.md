@@ -4,7 +4,7 @@ venue: Proceedings of the Genetic and Evolutionary Computation Conference Compan
   …, 2021
 names: M Lorandi, LL Custode, G Iacca
 tags: ''
-link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=USpEfyQAAAAJ&citation_for_view=USpEfyQAAAAJ:u5HHmVD_uO8C
+link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=USpEfyQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=USpEfyQAAAAJ:u5HHmVD_uO8C
 author: Michela Lorandi
 categories: Publications
 year: '2021'

@@ -5,7 +5,7 @@ venue: Proceedings of the 3rd International Workshop on Natural Language Generat
   …, 2020
 names: T Ferreira, C Gardent, N Ilinykh, C Van Der Lee, S Mille, D Moussallem, ...
 tags: ''
-link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hg8-G68AAAAJ&citation_for_view=hg8-G68AAAAJ:e5wmG9Sq2KIC
+link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hg8-G68AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hg8-G68AAAAJ:e5wmG9Sq2KIC
 author: Simon Mille
 categories: Publications
 year: '2020'

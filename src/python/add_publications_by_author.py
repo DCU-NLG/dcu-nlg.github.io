@@ -36,13 +36,19 @@ def get_filename(parsed):
 #               publications Functions               #
 ######################################################    
 def author_publications(author_id:str, api_key:str)->Dict[str, List[str]]:
-  url = urlopen(f"https://serpapi.com/search.json?engine=google_scholar_author&author_id={author_id}&api_key={api_key}")
+  url = urlopen(f"https://serpapi.com/search.json?engine=google_scholar_author&author_id={author_id}&api_key={api_key}&num=100&sort=pubdate")
   data = json.loads(url.read())
   return data
 
 def publication_info(info:str, author:str, save_dir=str)-> Dict[str,str]:
-  parsed_info = {"title":info['title'], "venue":info['publication'],"names":info['authors'], "tags":'',
-                 "link":info['link'],"author":author, "categories":"Publications" ,'year':info['year']}
+  venue = 'publication'
+  if venue in info:
+    venue = info['publication']
+    parsed_info = {"title":info['title'], "venue":venue,"names":info['authors'], "tags":'',
+                    "link":info['link'],"author":author, "categories":"Publications" ,'year':info['year']}
+  else:
+    parsed_info = {"title":info['title'], "venue":'',"names":info['authors'], "tags":'',
+                    "link":info['link'],"author":author, "categories":"Publications" ,'year':info['year']}
 
   return parsed_info
 
@@ -86,7 +92,7 @@ def main(save_dir="_posts/papers", site_data_dir="_data/", api_key:str=''):
     yaml.preserve_quotes = True
     with open(site_data_dir / "authors.yml") as f:
         authors = yaml.load(f)
-    
+    visited_pub = set() #track duplications
     for author in authors.values():
       author_id = author.get('google_scholar_id', False)
       name = author.get('name', False)
@@ -94,13 +100,15 @@ def main(save_dir="_posts/papers", site_data_dir="_data/", api_key:str=''):
 
       if author_id == False:
         continue
-
       else:
-        for pub in publications['articles']:
-            parsed_info = publication_info(pub, name)
-            pub_post = generate_publication_post(parsed_info)
-            write_content_to_file(pub_post, save_dir)
-
+          for pub in publications['articles']:
+            if pub['title'].lower() not in visited_pub:
+                parsed_info = publication_info(pub, name)
+                pub_post = generate_publication_post(parsed_info)
+                write_content_to_file(pub_post, save_dir)
+                visited_pub.add(pub['title'].lower())
+            else:
+              continue
 
 
 if __name__ == "__main__":

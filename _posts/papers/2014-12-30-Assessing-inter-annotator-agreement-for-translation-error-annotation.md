@@ -4,7 +4,7 @@ venue: 'MTE: Workshop on Automatic and Manual Metrics for Operational Translatio
   …, 2014'
 names: A Lommel, M Popovic, A Burchardt
 tags: ''
-link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KdAV2Y0AAAAJ&citation_for_view=KdAV2Y0AAAAJ:IWHjjKOFINEC
+link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KdAV2Y0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KdAV2Y0AAAAJ:IWHjjKOFINEC
 author: Maja Popovic
 categories: Publications
 year: '2014'

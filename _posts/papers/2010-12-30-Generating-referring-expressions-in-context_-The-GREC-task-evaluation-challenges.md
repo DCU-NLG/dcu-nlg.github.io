@@ -4,7 +4,7 @@ venue: 'Empirical methods in natural language generation: Data-oriented methods 
   …, 2010'
 names: A Belz, E Kow, J Viethen, A Gatt
 tags: ''
-link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=trwwiW4AAAAJ&citation_for_view=trwwiW4AAAAJ:SeFeTyx0c_EC
+link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=trwwiW4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=trwwiW4AAAAJ:SeFeTyx0c_EC
 author: Anya Belz
 categories: Publications
 year: '2010'

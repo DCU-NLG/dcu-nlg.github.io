@@ -3,7 +3,7 @@ title: Comparing Language Related Issues for NMT and PBMT between German and Eng
 venue: The Prague Bulletin of Mathematical Linguistics 108, 2017
 names: M Popović
 tags: ''
-link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KdAV2Y0AAAAJ&citation_for_view=KdAV2Y0AAAAJ:Tiz5es2fbqcC
+link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KdAV2Y0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KdAV2Y0AAAAJ:Tiz5es2fbqcC
 author: Maja Popovic
 categories: Publications
 year: '2017'

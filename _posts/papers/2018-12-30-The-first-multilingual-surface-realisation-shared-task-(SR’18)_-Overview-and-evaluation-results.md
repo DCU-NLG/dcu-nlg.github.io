@@ -5,7 +5,7 @@ venue: Proceedings of the First Workshop on Multilingual Surface Realisation, 1-
   2018
 names: S Mille, A Belz, B Bohnet, Y Graham, E Pitler, L Wanner
 tags: ''
-link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hg8-G68AAAAJ&citation_for_view=hg8-G68AAAAJ:u5HHmVD_uO8C
+link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hg8-G68AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hg8-G68AAAAJ:u5HHmVD_uO8C
 author: Simon Mille
 categories: Publications
 year: '2018'

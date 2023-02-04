@@ -5,7 +5,7 @@ venue: Proceedings of the 2nd Workshop on Multilingual Surface Realisation (MSR 
   2019
 names: S Mille, A Belz, B Bohnet, Y Graham, L Wanner
 tags: ''
-link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hg8-G68AAAAJ&citation_for_view=hg8-G68AAAAJ:2osOgNQ5qMEC
+link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hg8-G68AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hg8-G68AAAAJ:2osOgNQ5qMEC
 author: Simon Mille
 categories: Publications
 year: '2019'
