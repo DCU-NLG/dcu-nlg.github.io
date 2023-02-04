@@ -9,7 +9,11 @@
       <nav id="site-nav" class="greedy-nav">
 
         <a class="site-logo" href="{{ '/' | relative_url }}">
+          {% if site.theme == "dark"%}
+          <img id="logo_img" src="{{ logo_path_dark | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+          {% else %}
           <img id="logo_img" src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+          {% endif %}
         </a>
 
         <a class="site-title" href="{{ '/' | relative_url }}">
