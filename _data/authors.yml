@@ -24,6 +24,7 @@
  Anya Belz:
    name: "Anya Belz"
 #   role: ""
+   google_scholar_id: "trwwiW4AAAAJ"
    avatar: "/assets/images/bio/AB_profile_pic.jpg"
    bio: "Professor of Computer Science at DCU and University of Aberdeen"
    note: "Language generation, evaluation of NLP systems, reproducibility, responsible AI."
@@ -43,6 +44,7 @@
  Rudali Huidrom:
    name: "Rudali Huidrom"
    role: "PhD student"
+   google_scholar_id: "mQuoBfsAAAAJ&hl"
    avatar: "/assets/images/bio/RH.jpg"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
@@ -65,6 +67,7 @@
  Michela Lorandi:
    name: "Michela Lorandi"
    role: "PhD student"
+   google_scholar_id: "USpEfyQAAAAJ&hl"
    avatar: "/assets/images/bio/ML.jpg"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
@@ -87,6 +90,7 @@
  Simon Mille:
    name: "Simon Mille"
 #   role: ""
+   google_scholar_id: "hg8-G68AAAAJ"
    avatar: "/assets/images/bio/SM.jpg"
    bio: "MSCA Individual Fellow, ADAPT/DCU"
    note: "Working on multilingual neuro-symbolic language generation, evaluation of NLP systems, treebanking"
@@ -106,6 +110,7 @@
  Maja Popovic:
    name: "Maja Popovic"
 #   role: ""
+   google_scholar_id: "KdAV2Y0AAAAJ"
    avatar: "/assets/images/bio/MP.png"
    bio: "Research Fellow in ADAPT and DCU"
    note: "Text-to-text generation, evaluation of MT and NLG systems, error annotation, reproducibility."
@@ -125,6 +130,7 @@
  Mohammed Sabry:
    name: "Mohammed Sabry"
    role: "PhD student"
+   google_scholar_id: "lfhzf8wAAAAJ"
    avatar: "/assets/images/bio/MS.jfif"
 #   date: "Sep 2030"
    advisor: "Prof. Anya Belz"
