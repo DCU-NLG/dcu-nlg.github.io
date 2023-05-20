@@ -1,7 +1,7 @@
 from typing import Dict, List
 import os
 import json
-import os
+import re
 from io import StringIO
 from textwrap import dedent
 from ruamel.yaml import YAML
@@ -14,7 +14,8 @@ from urllib.request import urlopen
 ######################################################
 def write_content_to_file(formatted, save_dir):
     os.makedirs(save_dir, exist_ok=True)
-    with open(os.path.join(save_dir, formatted["filename"]), "w") as f:
+    file_name = re.sub(r'[<>:"/\\|?*]', '', formatted["filename"])
+    with open(os.path.join(save_dir, file_name), "w", encoding="utf-8") as f:
         f.write(formatted["content"])
 
 def front_matters_from_dict(d):
@@ -36,7 +37,7 @@ def get_filename(parsed):
 #               publications Functions               #
 ######################################################    
 def author_publications(author_id:str, api_key:str)->Dict[str, List[str]]:
-  url = urlopen(f"https://serpapi.com/search.json?engine=google_scholar_author&author_id={author_id}&api_key={api_key}&num=100&sort=pubdate")
+  url = urlopen(f"https://serpapi.com/search.json?engine=google_scholar_author&author_id={author_id}&api_key={api_key}&num=5&scisbd=2&sort=pubdate")
   data = json.loads(url.read())
   return data
 
@@ -49,7 +50,7 @@ def publication_info(info:str, author:str, save_dir=str)-> Dict[str,str]:
   else:
     parsed_info = {"title":info['title'], "venue":'',"names":info['authors'], "tags":'',
                     "link":info['link'],"author":author, "categories":"Publications" ,'year':info['year']}
-
+    
   return parsed_info
 
 
@@ -113,4 +114,4 @@ def main(save_dir="_posts/papers", site_data_dir="_data/", api_key:str=''):
 
 if __name__ == "__main__":
   #setup SerpAPI account to get api_key
-  main(save_dir="_posts/papers", site_data_dir="_data/",api_key="")
+  main(save_dir="_posts\papers", site_data_dir="_data/",api_key="b86a6c3642fde09f0c3f0be95f908edc5e3a35903d883279c9282513e946b0b8")
