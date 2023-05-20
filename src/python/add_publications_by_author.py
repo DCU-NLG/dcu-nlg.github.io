@@ -114,4 +114,4 @@ def main(save_dir="_posts/papers", site_data_dir="_data/", api_key:str=''):
 
 if __name__ == "__main__":
   #setup SerpAPI account to get api_key
-  main(save_dir="_posts\papers", site_data_dir="_data/",api_key="b86a6c3642fde09f0c3f0be95f908edc5e3a35903d883279c9282513e946b0b8")
+  main(save_dir="_posts\papers", site_data_dir="_data/",api_key="")
