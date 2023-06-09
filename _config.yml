@@ -72,7 +72,7 @@ author:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "GTM-KLLM9FW"
+    tracking_id: "G-8K8MNR2WM1"
     anonymize_ip: false # default
 
 atom_feed:
