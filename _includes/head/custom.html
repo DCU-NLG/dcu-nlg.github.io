@@ -45,4 +45,13 @@
     const theme = sessionStorage.getItem('theme');
     updateNodesRel(theme);
 </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8K8MNR2WM1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8K8MNR2WM1', { 'anonymize_ip': false});
+</script>
 {% endif %}
