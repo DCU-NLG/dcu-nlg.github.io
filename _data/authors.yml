@@ -81,8 +81,8 @@
 #       url: "https://john-doe.github.io/"
      - label: "GitHub"
        url: "https://github.com/michelalorandi"
-#     - label: "Twitter"
-#       url: "https://twitter.com/john-doe"
+     - label: "Twitter"
+       url: "https://twitter.com/MichelaLorandi"
      - label: "Scholar"
        icon: "fas fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?user=USpEfyQAAAAJ&hl"
@@ -149,6 +149,28 @@
      - label: "Scholar"
        icon: "fas fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?hl=en&user=lfhzf8wAAAAJ"
+
+ Craig Thomson:
+   name: "Craig Thomson"
+#   role: ""
+   google_scholar_id: "X8y3FZYAAAAJ"
+   avatar: "/assets/images/bio/CT.jpeg"
+   bio: "EPSRC Post-doctoral Researcher, working on ReproHum Project, Aberdeen University and ADAPT/DCU"
+   note: "Working on reproducibility of evaluations of NLP systems"
+   alumni: false
+   extmembers: false
+   links:
+#     - label: "Website"
+#       url: "https://john-doe.github.io/"
+     - label: "GitHub"
+       url: "https://github.com/nlgcat/"
+     - label: "Twitter"
+       url: "https://twitter.com/ThomsonSoftware"
+     - label: "Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.co.uk/citations?hl=en&user=X8y3FZYAAAAJ"
+
+
 
  Josep Ricci:
    name: "Josep Ricci"

@@ -31,13 +31,13 @@ def front_matters_from_dict(d):
     return front_matter
 
 def get_filename(parsed):
-    return parsed['year']+"-12-30-"+parsed['title'].replace(" ",'-').lower() + ".md"
+    return parsed['year']+"-09-11-"+parsed['title'].replace(" ",'-').lower() + ".md"
 
 ######################################################
 #               publications Functions               #
 ######################################################    
 def author_publications(author_id:str, api_key:str)->Dict[str, List[str]]:
-  url = urlopen(f"https://serpapi.com/search.json?engine=google_scholar_author&author_id={author_id}&api_key={api_key}&num=5&scisbd=2&sort=pubdate")
+  url = urlopen(f"https://serpapi.com/search.json?engine=google_scholar_author&author_id={author_id}&api_key={api_key}&num=4&scisbd=2&sort=pubdate")
   data = json.loads(url.read())
   return data
 
@@ -114,4 +114,4 @@ def main(save_dir="_posts/papers", site_data_dir="_data/", api_key:str=''):
 
 if __name__ == "__main__":
   #setup SerpAPI account to get api_key
-  main(save_dir="_posts\papers", site_data_dir="_data/",api_key="")
+  main(save_dir=r"C:\Users\sabrym2\\dcu-nlg.github.io\\_posts\\papers", site_data_dir=r"C:\Users\sabrym2\\dcu-nlg.github.io\\_data\\", api_key="b86a6c3642fde09f0c3f0be95f908edc5e3a35903d883279c9282513e946b0b8")
