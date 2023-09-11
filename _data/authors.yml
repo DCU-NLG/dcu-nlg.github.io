@@ -216,27 +216,6 @@
        icon: "fas fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?user=-fBym-EAAAAJ"
 
- Dr Craig Thomson:
-   name: "Dr Craig Thomson"
-#   role: "Intern"
-   #   avatar: "/assets/images/bio/JR.jpg"
-   #   date: "Sep 2030"
-#   advisor: "Dr. Simon Mille"
-   bio: "University of Aberdeen"
-   #   note: ""
-   extmembers: true
-   alumni: false
-#   new_role: ""
-   links:
-#     - label: "Website"
-#       url: "https://john-doe.github.io/"
-#     - label: "GitHub"
-#       url: "https://github.com/"
-#     - label: "Twitter"
-#       url: "https://twitter.com/john-doe"
-     - label: "Scholar"
-       icon: "fas fa-fw fa-graduation-cap"
-       url: "https://scholar.google.com/citations?user=X8y3FZYAAAAJ"
 
  Francesco Moramarco:
    name: "Francesco Moramarco"
