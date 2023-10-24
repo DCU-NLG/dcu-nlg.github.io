@@ -5,5 +5,7 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Public Engagement"
+    url: /public_engagement/
   - title: "Contact"
     url: /contact/

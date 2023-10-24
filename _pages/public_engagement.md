@@ -3,7 +3,7 @@ permalink: /public_engagement/
 title: "Public Engagement"
 layout: splash
 header:
-    #overlay_filter: rgba(237, 27, 47, 0.3)
+    overlay_filter: rgba(237, 27, 47, 0.3)
     overlay_image: /assets/images/PE/public_engagement.jpg
 
 excerpt: "At DCU NLG, we are dedicated to engaging with the broader community and fostering meaningful interactions beyond the academic sphere. Our public engagement activities are designed to bridge the gap between our research endeavours and the public, creating a space for knowledge exchange, collaboration, and shared enthusiasm for natural language processing and artificial intelligence."
