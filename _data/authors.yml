@@ -181,7 +181,7 @@
    note: "Co-supervised by Dr. Yufang Hou"
    alumni: false
    extmembers: false
-   links:
+#   links:
 #     - label: "Website"
 #       url: "https://john-doe.github.io/"
 #     - label: "GitHub"
