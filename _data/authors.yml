@@ -174,8 +174,8 @@
   Massimiliano Pronesti:
    name: " Massimiliano Pronesti"
    role: "PhD Student"
-   #google_scholar_id: ""
-   #avatar: ""
+#  google_scholar_id: ""
+#  avatar: ""
    bio: "Working on claim verification."
    advisor: "Prof. Anya Belz"
    note: "Co-supervised by Dr. Yufang Hou"
@@ -226,7 +226,7 @@
    alumni: true
    extmembers: false
 #   new_role: ""
-#   links:
+   links:
 #     - label: "Website"
 #       url: "https://john-doe.github.io/"
 #     - label: "GitHub"
