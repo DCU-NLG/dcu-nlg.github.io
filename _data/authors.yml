@@ -175,7 +175,7 @@
    name: " Massimiliano Pronesti"
    role: "PhD Student"
 #  google_scholar_id: ""
-#  avatar: ""
+   avatar: "/assets/images/bio-photo.jpg"
    bio: "Working on claim verification."
    advisor: "Prof. Anya Belz"
    note: "Co-supervised by Dr. Yufang Hou"
