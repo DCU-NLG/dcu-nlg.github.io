@@ -171,7 +171,7 @@
        url: "https://scholar.google.co.uk/citations?hl=en&user=X8y3FZYAAAAJ"
 
 
-  Massimiliano Pronesti:
+ Massimiliano Pronesti:
    name: " Massimiliano Pronesti"
    role: "PhD Student"
 #  google_scholar_id: ""
@@ -239,15 +239,9 @@
 
  Dr Yufang Hou:
    name: "Dr Yufang Hou"
-#   role: "Intern"
-   #   avatar: "/assets/images/bio/JR.jpg"
-   #   date: "Sep 2030"
-#   advisor: "Dr. Simon Mille"
    bio: "IBM Research Dublin"
-   #   note: ""
    extmembers: true
    alumni: false
-#   new_role: ""
    links:
 #     - label: "Website"
 #       url: "https://john-doe.github.io/"
@@ -255,22 +249,16 @@
 #       url: "https://github.com/"
 #     - label: "Twitter"
 #       url: "https://twitter.com/john-doe"
-     - label: "Scholar"
-       icon: "fas fa-fw fa-graduation-cap"
-       url: "https://scholar.google.com/citations?user=-fBym-EAAAAJ"
+      - label: "Scholar"
+        icon: "fas fa-fw fa-graduation-cap"
+        url: "https://scholar.google.com/citations?user=-fBym-EAAAAJ"
 
 
  Dr Thiago Castro Ferreira:
    name: "Dr Thiago Castro Ferreira"
-#   role: "Intern"
-   #   avatar: "/assets/images/bio/JR.jpg"
-   #   date: "Sep 2030"
-#   advisor: "Dr. Simon Mille"
    bio: "aiXplain and Federal University of Minas Gerais"
-   #   note: ""
    extmembers: true
    alumni: false
-#   new_role: ""
    links:
 #     - label: "Website"
 #       url: "https://john-doe.github.io/"
@@ -278,6 +266,6 @@
 #       url: "https://github.com/"
 #     - label: "Twitter"
 #       url: "https://twitter.com/john-doe"
-     - label: "Scholar"
-       icon: "fas fa-fw fa-graduation-cap"
-       url: "https://scholar.google.com/citations?user=WvXZlDIAAAAJ"
+      - label: "Scholar"
+        icon: "fas fa-fw fa-graduation-cap"
+        url: "https://scholar.google.com/citations?user=WvXZlDIAAAAJ"
