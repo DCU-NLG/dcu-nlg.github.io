@@ -176,16 +176,16 @@
    role: "PhD Student"
 #  google_scholar_id: ""
    avatar: "/assets/images/bio/MSP.jpg"
-   bio: "Working on claim verification."
+   bio: "Working on scientific claim verification and evidence synthesis."
    advisor: "Prof. Anya Belz"
-   note: "Co-supervised by Dr. Yufang Hou"
+   note: "Co-supervised by Dr. Yufang Hou, IBM Research Dublin"
    alumni: false
    extmembers: false
-#   links:
+   links:
 #     - label: "Website"
 #       url: "https://john-doe.github.io/"
-#     - label: "GitHub"
-#       url: ""
+     - label: "GitHub"
+       url: "https://github.com/mspronesti"
 #     - label: "Twitter"
 #       url: ""
 #     - label: "Scholar"
