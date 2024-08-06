@@ -21,13 +21,12 @@ permalink: /contact/
   </div>
 </div>
 
-
-
 <iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.6488777580885!2d-6.2614152229176625!3d53.38533167230055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e113b293d85%3A0xc81174de93fa22d6!2sDCU%20-%20School%20of%20Computing!5e0!3m2!1sit!2sie!4v1722426567612!5m2!1sit!2sie" 
+    class="embed-responsive-item"
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.6488777580885!2d-6.2614152229176625!3d53.38533167230055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e113b293d85%3A0xc81174de93fa22d6!2sDCU%20-%20School%20of%20Computing!5e0!3m2!1sen!2sit!4v1722426567612!5m2!1sen!2sit" 
     width="600" 
-    height="450" 
-    style="border:0;" 
+    height="400" 
+    style="border:0; max-width: 100%" 
     allowfullscreen="" 
     loading="lazy" 
     referrerpolicy="no-referrer-when-downgrade">
