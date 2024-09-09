@@ -173,19 +173,19 @@
 
  Massimiliano Pronesti:
    name: " Massimiliano Pronesti"
-   role: "PhD Student"
+   role: "Industrial PhD Student at IBM Research and DCU"
 #  google_scholar_id: ""
    avatar: "/assets/images/bio/MSP.jpg"
-   bio: "Working on scientific claim verification and evidence synthesis."
+   bio: "Working on scientific text generation and factuality of LLMs and Agentic Workflows."
    advisor: "Prof. Anya Belz"
    note: "Co-supervised by Dr. Yufang Hou, IBM Research Dublin"
    alumni: false
    extmembers: false
    links:
-#     - label: "Website"
-#       url: "https://john-doe.github.io/"
      - label: "GitHub"
        url: "https://github.com/mspronesti"
+     - label: "LinkedIn"
+       url: "https://www.linkedin.com/in/massimiliano-pronesti"
 #     - label: "Twitter"
 #       url: ""
 #     - label: "Scholar"
