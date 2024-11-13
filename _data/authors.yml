@@ -155,8 +155,8 @@
 #   role: ""
    google_scholar_id: "X8y3FZYAAAAJ"
    avatar: "/assets/images/bio/CT.jpg"
-   bio: "EPSRC Post-doctoral Researcher, working on ReproHum Project, Aberdeen University and ADAPT/DCU"
-   note: "Working on reproducibility of evaluations of NLP systems"
+   bio: "Post-doctoral researcher at ADAPT/DCU"
+   note: "Working on the reproducibility of evaluations of NLP systems (ReproHum project) and improving human evaluation protocols for NLP."
    alumni: false
    extmembers: false
    links:
