@@ -1,13 +1,12 @@
 ---
 title: 'The 2023 ReproNLP Shared Task on Reproducibility of Evaluations in NLP: Overview
   and Results'
-venue: Proceedings of the 3rd Workshop on Human Evaluation of NLP Systems, 35-48,
-  2023
+venue: The Third Workhop on Human Evaluation of NLP Systems, 2023
 names: A Belz, C Thomson
 tags: ''
 link: 
-  https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X8y3FZYAAAAJ&pagesize=4&sortby=pubdate&citation_for_view=X8y3FZYAAAAJ:hqOjcs7Dif8C
-author: Craig Thomson
+  https://scholar.google.com/citations?view_op=view_citation&hl=en&user=trwwiW4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=trwwiW4AAAAJ:ML0RJ9NH7IQC
+author: Anya Belz
 categories: Publications
 year: '2023'
 

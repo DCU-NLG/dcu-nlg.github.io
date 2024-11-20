@@ -6,7 +6,7 @@ venue: 24th Annual Conference of the European Association for Machine Translatio
 names: S Valdez, AG Arenas, K Ligtenberg
 tags: ''
 link: 
-  https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KdAV2Y0AAAAJ&pagesize=4&sortby=pubdate&citation_for_view=KdAV2Y0AAAAJ:7T2F9Uy0os0C
+  https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KdAV2Y0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KdAV2Y0AAAAJ:7T2F9Uy0os0C
 author: Maja Popovic
 categories: Publications
 year: '2023'

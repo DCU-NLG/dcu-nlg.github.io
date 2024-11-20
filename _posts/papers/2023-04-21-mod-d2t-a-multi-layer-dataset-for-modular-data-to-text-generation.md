@@ -5,8 +5,8 @@ venue: Proceedings of the 16th International Natural Language Generation Confere
 names: S Mille, F Lareau, S Dasiopoulou, A Belz
 tags: ''
 link: 
-  https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hg8-G68AAAAJ&pagesize=4&sortby=pubdate&citation_for_view=hg8-G68AAAAJ:D03iK_w7-QYC
-author: Simon Mille
+  https://scholar.google.com/citations?view_op=view_citation&hl=en&user=trwwiW4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=trwwiW4AAAAJ:p__nRnzSRKYC
+author: Anya Belz
 categories: Publications
 year: '2023'
 

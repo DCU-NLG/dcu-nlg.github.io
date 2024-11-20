@@ -5,8 +5,8 @@ venue: Proceedings of the 2nd Workshop on Natural Language Generation, Evaluatio
 names: R Huidrom, A Belz
 tags: ''
 link: 
-  https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mQuoBfsAAAAJ&pagesize=4&sortby=pubdate&citation_for_view=mQuoBfsAAAAJ:W7OEmFMy1HYC
-author: Rudali Huidrom
+  https://scholar.google.com/citations?view_op=view_citation&hl=en&user=trwwiW4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=trwwiW4AAAAJ:yB1At4FlUx8C
+author: Anya Belz
 categories: Publications
 year: '2022'
 

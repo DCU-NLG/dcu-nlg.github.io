@@ -5,8 +5,8 @@ venue: arXiv preprint arXiv:2308.09957, 2023
 names: M Lorandi, A Belz
 tags: ''
 link: 
-  https://scholar.google.com/citations?view_op=view_citation&hl=en&user=USpEfyQAAAAJ&pagesize=4&sortby=pubdate&citation_for_view=USpEfyQAAAAJ:UeHWp8X0CEIC
-author: Michela Lorandi
+  https://scholar.google.com/citations?view_op=view_citation&hl=en&user=trwwiW4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=trwwiW4AAAAJ:uWiczbcajpAC
+author: Anya Belz
 categories: Publications
 year: '2023'
 
