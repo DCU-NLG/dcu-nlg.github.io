@@ -2,3 +2,10 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+
+.idea/
+.env
+.venv/
+venv/
+
+.DS_Store

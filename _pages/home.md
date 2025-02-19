@@ -30,22 +30,21 @@ row_code:
     excerpt: "We aim to publish resources including models, datasets, code and data sheets via GitHub to help others to use and build on our work. Feedback is always welcome."
   
 row_about_us:
-  - image_path: /assets/images/SM_MSR19.jpg
+  - image_path: /assets/images/INLG2024.jpg
   - image_path: /assets/images/AB_2019.png
   - image_path: /assets/images/FM_2022.jpg
-  - image_path: /assets/images/RH_EMNLP_2022.jpeg
+  - image_path: /assets/images/RH_INLG2024.jpg
   - image_path: /assets/images/AB_2022.jpg
-  - image_path: /assets/images/ML_2023-2.jpg 
-  - image_path: /assets/images/MP.jpg
-  - image_path: /assets/images/SM_EMNLP19.jpg
-  - image_path: /assets/images/20230201_141106.jpg
+  - image_path: /assets/images/ML_EACL2024.jpg
+  - image_path: /assets/images/IMG-20231208-WA0009.jpg
+  - image_path: /assets/images/DCU-NLG-prague.jpg
+  - image_path: /assets/images/20240923_141809.jpg
 
 
 ---
 {% comment %}
 Based on: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_pages/splash-page.md
 {% endcomment %}
-
 
 {% include feature_row id="row_research" type="left" %}
 
@@ -56,7 +55,7 @@ Based on: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/do
 # About Us
 {: .text-center}
 
-We are are group of researchers based in DCU and ADAPT, with external members at Aberdeen University, and IBM Research Dublin. Our collaborations extend to all continents, and both academia and industry.
+We are group of researchers based in DCU and ADAPT, with external members at Aberdeen University, and IBM Research Dublin. Our collaborations extend to all continents, and both academia and industry.
 {: .text-center}
 
 {% include feature_row id="row_about_us" %}
