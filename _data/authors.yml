@@ -176,7 +176,7 @@
    role: "Industrial PhD Student at DCU and IBM Research"
 #  google_scholar_id: ""
    avatar: "/assets/images/bio/MSP.jpg"
-   bio: "Working on scientific text generation and factuality of LLMs and Agentic Workflows."
+   bio: "Working on scientific text generation, reasoning and factuality of LLMs and Agentic Workflows."
    advisor: "Prof. Anya Belz"
    note: "Co-supervised by Dr. Yufang Hou, IBM Research Dublin"
    alumni: false
@@ -192,6 +192,33 @@
 #       icon: "fas fa-fw fa-graduation-cap"
 #       url: ""
 
+ Javier Gonzalez:
+    name: "Javier Gonzaléz"
+    role: "Intern"
+    bio: "Working on improving the robustness and reproducibility of validation methods for Natural Language Generation systems."
+    alumni: false
+    extmembers: false
+    advisor: "Dr. Craig Thomson and Prof. Anya Belz"
+    avatar: "/assets/images/bio/JG.jpg"
+    links:
+      - label: "LinkedIn"
+        url: "https://www.linkedin.com/in/javier-gonzález-corbelle-b43b25282/"
+      - label: "Scholar"
+        url: "https://scholar.google.com/citations?user=Ll5To9MAAAAJ&hl=en"
+
+
+
+ Malo Surname:
+    name: "Malo Ruelle"
+    role: "Intern"
+    bio: "Working on NLP systems for evaluation tasks"
+    alumni: false
+    extmembers: false
+    advisor: "Dr. Craig Thomson and Prof. Anya Belz"
+    avatar: "/assets/images/bio/MR.jpg"
+    links:
+      - label: "LinkedIn"
+        url: "www.linkedin.com/in/malo-ruelle"
 
  Josep Ricci:
    name: "Josep Ricci"

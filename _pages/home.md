@@ -28,7 +28,7 @@ row_code:
     btn_label: "GitHub"
     btn_class: "btn--primary"
     excerpt: "We aim to publish resources including models, datasets, code and data sheets via GitHub to help others to use and build on our work. Feedback is always welcome."
-  
+
 row_about_us:
   - image_path: /assets/images/INLG2024.jpg
   - image_path: /assets/images/AB_2019.png
@@ -58,5 +58,5 @@ Based on: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/do
 We are group of researchers based in DCU and ADAPT, with external members at Aberdeen University, and IBM Research Dublin. Our collaborations extend to all continents, and both academia and industry.
 {: .text-center}
 
-{% include feature_row id="row_about_us" %}
+{% include feature_row id="row_about_us" style="padding-bottom: 10px;" %}
 
