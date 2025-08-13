@@ -1,6 +1,6 @@
 ---
-title: Common Flaws in Running Human Evaluation Experiments in NLP
-venue: Computational Linguistics, 1-11, 2024
+title: Common flaws in running human evaluation experiments in NLP
+venue: Computational Linguistics 50 (2), 795-805, 2024
 names: C Thomson, E Reiter, A Belz
 tags: ''
 link: 

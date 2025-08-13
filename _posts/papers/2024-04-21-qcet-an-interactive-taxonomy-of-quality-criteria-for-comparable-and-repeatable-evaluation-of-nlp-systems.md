@@ -1,5 +1,5 @@
 ---
-title: 'Qcet: An interactive taxonomy of quality criteria for comparable and repeatable
+title: 'QCET: An interactive taxonomy of quality criteria for comparable and repeatable
   evaluation of NLP systems'
 venue: Proceedings of the 17th International Natural Language Generation Conference
   …, 2024

@@ -1,5 +1,5 @@
 ---
-title: Generating Irish Text with a Flexible Plug-and-Play Architecture
+title: Generating Irish text with a flexible plug-and-play architecture
 venue: Proceedings of the 2nd Workshop on Pattern-based Approaches to NLP in the …,
   2023
 names: S Mille, EU Dhonnchadha, L Cassidy, B Davis, S Dasiopoulou, A Belz

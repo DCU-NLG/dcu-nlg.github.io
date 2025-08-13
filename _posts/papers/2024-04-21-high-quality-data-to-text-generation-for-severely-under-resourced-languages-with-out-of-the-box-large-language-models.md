@@ -1,6 +1,6 @@
 ---
-title: High-quality Data-to-Text Generation for Severely Under-Resourced Languages
-  with Out-of-the-box Large Language Models
+title: High-quality data-to-text generation for severely under-resourced languages
+  with out-of-the-box large language models
 venue: arXiv preprint arXiv:2402.12267, 2024
 names: M Lorandi, A Belz
 tags: ''

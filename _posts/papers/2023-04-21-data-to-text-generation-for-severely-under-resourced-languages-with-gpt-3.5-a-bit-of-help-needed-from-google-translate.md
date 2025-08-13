@@ -1,6 +1,6 @@
 ---
-title: 'Data-to-text generation for severely under-resourced languages with gpt-3.5:
-  A bit of help needed from google translate'
+title: 'Data-to-text generation for severely under-resourced languages with GPT-3.5:
+  A bit of help needed from Google Translate'
 venue: arXiv preprint arXiv:2308.09957, 2023
 names: M Lorandi, A Belz
 tags: ''

@@ -1,6 +1,6 @@
 ---
 title: A survey of recent error annotation schemes for automatically generated text
-venue: Proceedings of the 2nd Workshop on Natural Language Generation, Evaluation
+venue: Proceedings of the 2nd workshop on natural language generation, evaluation
   …, 2022
 names: R Huidrom, A Belz
 tags: ''

@@ -1,7 +1,7 @@
 ---
-title: Towards a Consensus Taxonomy for Annotating Errors in Automatically Generated
-  Text
-venue: Proceedings of the 14th International Conference on Recent Advances in …, 2023
+title: Towards a consensus taxonomy for annotating errors in automatically generated
+  text
+venue: Proceedings of the 14th international conference on recent advances in …, 2023
 names: R Huidrom, A Belz
 tags: ''
 link: 

@@ -1,7 +1,7 @@
 ---
 title: 'Findings of the WMT24 general machine translation shared task: the LLM era
   is here but mt is not solved yet'
-venue: Proceedings of the Ninth Conference on Machine Translation, 1-46, 2024
+venue: Proceedings of the Ninth Conference on Machine Translation, 1–46, 2024
 names: T Kocmi, E Avramidis, R Bawden, O Bojar, A Dvorkovich, C Federmann, ...
 tags: ''
 link: 
