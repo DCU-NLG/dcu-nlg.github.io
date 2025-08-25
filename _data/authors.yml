@@ -196,7 +196,7 @@
     name: "Javier Gonzaléz"
     role: "Intern"
     bio: "Working on improving the robustness and reproducibility of validation methods for Natural Language Generation systems."
-    alumni: false
+    alumni: true
     extmembers: false
     advisor: "Dr. Craig Thomson and Prof. Anya Belz"
     avatar: "/assets/images/bio/JG.jpg"
@@ -208,11 +208,11 @@
 
 
 
- Malo Surname:
+ Malo Ruelle:
     name: "Malo Ruelle"
     role: "Intern"
     bio: "Working on NLP systems for evaluation tasks"
-    alumni: false
+    alumni: true
     extmembers: false
     advisor: "Dr. Craig Thomson and Prof. Anya Belz"
     avatar: "/assets/images/bio/MR.jpg"
